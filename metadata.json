@@ -1,0 +1,6 @@
+{
+  "name": "Viva Feliz Alimentos",
+  "description": "Distribuidora premium de sucos naturais, água de coco e alimentos congelados.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
